@@ -16,7 +16,7 @@ const App = () => {
               <Toolbar>
                    <PhotoCamera className={classes.icon}  />
                    <Typography variant="h6">
-                       Photo Album
+                       Photo Albums
                    </Typography>
               </Toolbar>
           </AppBar>
